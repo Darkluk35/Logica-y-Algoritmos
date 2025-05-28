@@ -44,5 +44,5 @@ const numberMin = findMax(numbers)
 const numberMax = findMin(numbers)
 
 
-console.log(`El numero mínimo es: ${numberMin}`); // Salida esperada: 2
-console.log(`El numero máximo es: ${numberMax}`);// Salida esperada: 10
+console.log(`El arreglo: [${numbers}] contiene como numero máximo a ${numberMax} `); // Salida esperada: 10
+console.log(`El arreglo: [${numbers}] contiene como numero minímo a ${numberMin} `); //salida de 2
