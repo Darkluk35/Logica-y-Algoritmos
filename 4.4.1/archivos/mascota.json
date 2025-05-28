@@ -1,0 +1,8 @@
+{
+    "nombre": "Tigrillo",
+    "edad": 8,
+    "estaEsterilizado": true,
+    "personaACargo":{
+        
+    }
+}
